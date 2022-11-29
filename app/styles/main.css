@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.todoList {
+  display: flex;
+}
+
+.input {
+  display: flex;
+}
+
+.todoDone {
+  color: red;
+  text-decoration: line-through;
+}
